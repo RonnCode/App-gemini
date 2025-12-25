@@ -1,0 +1,10 @@
+
+{
+  "name": "MultiLogin Hub",
+  "description": "A professional multi-accounting profile manager with AI-powered optimization, profile isolation simulation, and proxy management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
